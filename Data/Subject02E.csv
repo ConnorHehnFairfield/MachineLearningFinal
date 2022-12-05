@@ -1,4 +1,4 @@
-﻿Grounded,Time[secs],Forefoot Force[N],Midfoot Force[N],Heel Force[N],TForce[N],RAnkleFlexion,RAnkleInversion,RAnkleAbduction,2
+﻿Grounded,Time[secs],Forefoot Force[N],Midfoot Force[N],Heel Force[N],TForce[N],RAnkleFlexion,RAnkleInversion,RAnkleAbduction,Person
 0,0.01,27.5,0,4.95,32.45,-7.901755,12.804566,9.594689,2
 0,0.02,19.91,0,4.95,24.86,-4.820748,14.261621,10.246241,2
 0,0.03,14.96,0,2.42,17.38,-3.940931,12.47339,11.680891,2
